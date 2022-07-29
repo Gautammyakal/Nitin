@@ -1,0 +1,23 @@
+{
+  "name": "nagesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gautammyakal/Nitin.git"
+  },
+  "author": "gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gautammyakal/Nitin/issues"
+  },
+  "homepage": "https://github.com/Gautammyakal/Nitin#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
